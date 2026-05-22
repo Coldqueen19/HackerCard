@@ -1,1 +1,2 @@
 # HackerCard
+This HackerCard follows the jam https://jams.hackclub.com/jam/hacker-card . I am going to set it up so that when a phone or similar tapps it it redirects to an online buisness card about me. It should then allow the phone to save to contacts. This allows quick and easy adding of information to a phone contacts list. This allows many people to get contact details in a few seconds, allowing me to share details to about 20 people in minuites, making sharing contact information quicker and easier.
