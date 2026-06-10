@@ -11,3 +11,7 @@ This system offers several advantages over traditional paper business cards. Inf
 The main goal of the project is to make networking and sharing contact information quicker and easier. For example, at events, clubs, conferences, or meetups, I can simply hand someone the card or allow them to tap it with their phone. Within a few seconds, they can view my details and save them directly to their contacts. This means I could share my information with around 20 people in just a few minutes, making the process significantly more efficient than exchanging details manually.
 
 Overall, the HackerCard combines modern NFC technology with a digital business card to create a professional, convenient, and efficient way to connect with others and exchange contact information.
+<img width="783" height="494" alt="image" src="https://github.com/user-attachments/assets/48eefc94-18db-4c31-8230-dc747acd1d96" />
+<img width="675" height="417" alt="image" src="https://github.com/user-attachments/assets/e37e1a31-4ecb-48fa-b49e-1019c91fa9a4" />
+<img width="432" height="281" alt="image" src="https://github.com/user-attachments/assets/b65b264d-b86d-4bba-9e51-ddda44097919" />
+<img width="317" height="395" alt="image" src="https://github.com/user-attachments/assets/2d57e3d2-c170-4a8f-b13f-1f38e0ce9a07" />
